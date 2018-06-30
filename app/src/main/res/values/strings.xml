@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StartEndTime</string>
+    <string name="check_console_for_output">Check Console For OUTPUT</string>
+</resources>
